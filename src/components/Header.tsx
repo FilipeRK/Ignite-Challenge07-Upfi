@@ -20,6 +20,7 @@ export function Header(): JSX.Element {
         </Flex>
       </Box>
 
+      <ModalAddImage isOpen={isOpen} onClose={onClose} />
     </>
   );
 }
