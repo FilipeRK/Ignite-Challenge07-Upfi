@@ -26,5 +26,3 @@ $ yarn dev
 - [ImgBB](https://pt-br.imgbb.com/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-
----
